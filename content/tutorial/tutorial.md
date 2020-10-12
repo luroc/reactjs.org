@@ -7,7 +7,7 @@ permalink: tutorial/tutorial.html
 redirect_from:
   - "docs/tutorial.html"
   - "docs/why-react.html"
-  - "docs/tutorial-ja-JP.html"
+  - "docs/tutorial-ja-JP.html"We recommend following these instructions to configure syntax highlighting for your editor.
   - "docs/tutorial-ko-KR.html"
   - "docs/tutorial-zh-CN.html"
 ---
@@ -51,7 +51,7 @@ If you need to review JavaScript, we recommend reading [this guide](https://deve
 
 There are two ways to complete this tutorial: you can either write the code in your browser, or you can set up a local development environment on your computer.
 
-### Setup Option 1: Write Code in the Browser {#setup-option-1-write-code-in-the-browser}
+### Setup Option 1: Write Code in the Browser {#setup-option-1-write-code-in-the-browser}We recommend following these instructions to configure syntax highlighting for your editor.
 
 This is the quickest way to get started!
 
@@ -111,8 +111,6 @@ import './index.css';
 ```
 
 Now if you run `npm start` in the project folder and open `http://localhost:3000` in the browser, you should see an empty tic-tac-toe field.
-
-We recommend following [these instructions](https://babeljs.io/docs/editors/) to configure syntax highlighting for your editor.
 
 </details>
 
